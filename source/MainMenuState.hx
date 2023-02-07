@@ -44,6 +44,28 @@ class MainMenuState extends MusicBeatState
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
 	var debugKeys:Array<FlxKey>;
+	public static var bgPaths:Array<String> = 
+	[
+		'backgrounds/ArtiztGmer',
+		'backgrounds/DeltaKastel',
+		'backgrounds/diamond man',
+		'backgrounds/kiazu',
+		'backgrounds/mamakotomi',
+		'backgrounds/morie',
+		'backgrounds/mantis',
+		'backgrounds/mepperpint',
+		'backgrounds/morie',
+		'backgrounds/neon',
+		'backgrounds/NotADemon',
+		'backgrounds/Onuko',
+		'backgrounds/ps',
+		'backgrounds/ricee_png',
+		'backgrounds/sk0rbias',
+		'backgrounds/SwagnotrllyTheMod',
+		'backgrounds/zombought',
+		'backgrounds/Lancey',
+		'backgrounds/Aadsta'
+	];
 
 	override function create()
 	{
