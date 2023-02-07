@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-34,
+				-132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				139
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-120,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/v2/Pooper",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "v2/pooper",
+	"flip_x": false,
+	"healthbar_colors": [
+		103,
+		39,
+		43
+	],
+	"camera_position": [
+		-300,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}

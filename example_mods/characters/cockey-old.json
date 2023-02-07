@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				550
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				351,
+				444
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				305,
+				158
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				370,
+				491
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				331,
+				459
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/old/Cockey",
+	"position": [
+		550,
+		630
+	],
+	"healthicon": "old/cockey",
+	"flip_x": false,
+	"healthbar_colors": [
+		232,
+		92,
+		228
+	],
+	"camera_position": [
+		-320,
+		-390
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

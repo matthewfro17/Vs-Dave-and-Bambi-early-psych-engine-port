@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				166,
+				116
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "garrett left"
+		},
+		{
+			"offsets": [
+				116,
+				116
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "garrett down"
+		},
+		{
+			"offsets": [
+				116,
+				116
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "garrett up"
+		},
+		{
+			"offsets": [
+				101,
+				116
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "garrett right"
+		},
+		{
+			"offsets": [
+				110,
+				116
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "garrett idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Garrett",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "garrett",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		127,
+		14
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
