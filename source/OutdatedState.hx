@@ -26,7 +26,7 @@ class OutdatedState extends MusicBeatState
 		#if android
 		warnText = new FlxText(0, 0, FlxG.width,
 			"new update of this engine alredy done  \n
-			Please download new update (" + MainMenuState.PandaEngineVersion + "),\n
+			Please download new update (" + MainMenuState.psychEngineVersion + "),\n
 			thank you! " + TitleState.updateVersion + "!\n
 			Press B to proceed anyway.\n
 			\n
@@ -35,7 +35,7 @@ class OutdatedState extends MusicBeatState
 		#else
 		warnText = new FlxText(0, 0, FlxG.width,
 			"Sup bro, looks like you're running an   \n
-			outdated version of Psych Engine (" + MainMenuState.PandaEngineVersion + "),\n
+			outdated version of Psych Engine (" + MainMenuState.psychEngineVersion + "),\n
 			please update to " + TitleState.updateVersion + "!\n
 			Press ESCAPE to proceed anyway.\n
 			\n
