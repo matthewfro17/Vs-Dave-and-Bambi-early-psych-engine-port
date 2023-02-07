@@ -1,0 +1,77 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Bonkers",
+			"garrett",
+			[
+				0,
+				127,
+				14
+			]
+		],
+		[
+			"confronting-yourself",
+			"tristan",
+			[
+				255,
+				19,
+				15
+			]
+		],
+		[
+			"eletric-cockadoodledoo",
+			"cockey",
+			[
+				228,
+				85,
+				81
+			]
+		],
+		[
+			"cuzsie-x-kapi-shipping-cute",
+			"cuzsie",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"electric-cockaldoodledoo",
+			"v2/cockey",
+			[
+				228,
+				85,
+				81
+			]
+		],
+		[
+			"bananacore",
+			"old/cockey",
+			[
+				232,
+				92,
+				228
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
