@@ -143,6 +143,8 @@
 	<!-- <haxelib name="hxcpp-debug-server" if="desktop"/> -->
 	<haxelib name="extension-androidtools" if="android"/>
 
+	<haxelib name="hxCodec" if="desktop || android" />
+
 	<!-- <haxelib name="markdown" /> -->
 	<!-- <haxelib name="HtmlParser" /> -->
 
