@@ -1,7 +1,7 @@
 package vlc;
 
 #if VIDEOS_ALLOWED
-import MP4Handler;
+import vlc.MP4Handler;
 #end
 
 class VideoState extends MusicBeatState
