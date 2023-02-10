@@ -1,9 +1,5 @@
 package vlc;
 
-#if VIDEOS_ALLOWED
-import vlc.MP4Handler;
-#end
-
 class VideoState extends MusicBeatState
 {
   override function create():Void
