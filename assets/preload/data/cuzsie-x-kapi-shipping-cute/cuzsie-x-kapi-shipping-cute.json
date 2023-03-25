@@ -2606,7 +2606,7 @@
 		"events": [],
 		"player3": null,
 		"song": "Cuzsie-x-Kapi-Shipping-Cute",
-		"needsVoices": false,
+		"needsVoices": true,
 		"sections": 0,
 		"validScore": true,
 		"stage": "stage",
