@@ -50,59 +50,8 @@ class FreeplayState extends MusicBeatState
 	var intendedColor:Int;
 	var colorTween:FlxTween;
 
-	private var CurrentSongIcon:FlxSprite;
-
-	private var Catagories:Array<String> = ["Dave", "Joke", "Extra"];
-
-	private var CurrentPack:Int = 0;
-
-	private var NameAlpha:Alphabet;
-
-	var loadingPack:Bool = false;
-
-	var songColors:Array<FlxColor> = [
-    	0xFFca1f6f,    // GF
-		0xFF4965FF,    // DAVE
-		0xFF00B515,    // MISTER BAMBI RETARD
-		0xFF00FFFF,    // SPLIT THE THONNNNN
-		0xFF800080,    // FESTIVAL
-		0xFFFF0000,    // UNFAIRNESS
-		0xFFFF0000,    // EXPLOITATION
-		0xFFFFC0CB,    // ELECTRIC COCKADOODLEDOO
-		0xFFFF0000     // TRISTAN
-    ];
-
-	private var camFollow:FlxObject;
-	private static var prevCamFollow:FlxObject;
-
-	private var iconArray:Array<HealthIcon> = [];
-
-	var titles:Array<Alphabet> = [];
-	var icons:Array<FlxSprite> = [];
-
-	var doneCoolTrans:Bool = false;
-
-	var defColor:FlxColor;
-	var canInteract:Bool = true;
-
 	override function create()
 	{
-		#if desktop
-		DiscordClient.changePresence("In the Freeplay Menu", null);
-		#end
-		
-		var isDebug:Bool = false;
-
-		#if debug
-		isDebug = true;
-		#end
-
-		bg.loadGraphic(MainMenuState.randomizeBG());
-		bg.color = 0xFF4965FF;
-		defColor = bg.color;
-		bg.scrollFactor.set();
-		add(bg);
-
 		//Paths.clearStoredMemory();
 		//Paths.clearUnusedMemory();
 		
