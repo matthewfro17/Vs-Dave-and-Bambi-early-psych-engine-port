@@ -1,5 +1,5 @@
 function onEvent(name, value1, value2)
-	if name == "Image Flash 1" then
+	if name == "Image Flash 2" then
 		makeLuaSprite('image', value1, 0, 0);
 		addLuaSprite('image', true);
 		doTweenColor('hello', 'image', 'FFFFFFFF', 0.0, 'quartIn');
