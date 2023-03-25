@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				560
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Shartey idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				489,
+				593
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Shartey left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				570
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Shartey down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				632
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Shartey up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				555
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Shartey right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				567
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Shartey alt-down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/v2/Shartey",
+	"position": [
+		420,
+		710
+	],
+	"healthicon": "v2/shartey",
+	"flip_x": false,
+	"healthbar_colors": [
+		104,
+		191,
+		202
+	],
+	"camera_position": [
+		-320,
+		-770
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

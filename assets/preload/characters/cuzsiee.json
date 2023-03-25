@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				470,
+				360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cuzsiee idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				470,
+				360
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cuzsiee left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				470,
+				360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cuzsiee down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				470,
+				360
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cuzsiee up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				470,
+				360
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "cuzsiee right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cuzsiee",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cuzsie",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-360,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

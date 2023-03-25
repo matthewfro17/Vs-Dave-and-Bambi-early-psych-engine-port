@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				410,
+				560
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				542,
+				558
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				550
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				450,
+				604
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				428,
+				650
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				463,
+				591
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "putting his phone away"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/v2/Pissey",
+	"position": [
+		600,
+		650
+	],
+	"healthicon": "v2/pissey",
+	"flip_x": false,
+	"healthbar_colors": [
+		247,
+		242,
+		49
+	],
+	"camera_position": [
+		-460,
+		-600
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}
