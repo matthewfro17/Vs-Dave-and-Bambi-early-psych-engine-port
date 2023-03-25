@@ -1,8 +1,8 @@
 {
-	"storyName": "Your New Week",
+	"storyName": "Scrapped Dave and Bambi 3.0 songs",
 	"difficulties": "Normal",
 	"hideFreeplay": false,
-	"weekBackground": "stage",
+	"weekBackground": "",
 	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
@@ -31,15 +31,6 @@
 			]
 		],
 		[
-			"eletric-cockadoodledoo",
-			"cockey",
-			[
-				228,
-				85,
-				81
-			]
-		],
-		[
 			"cuzsie-x-kapi-shipping-cute",
 			"cuzsie",
 			[
@@ -49,8 +40,17 @@
 			]
 		],
 		[
-			"electric-cockaldoodledoo",
-			"v2/cockey",
+			"bananacore",
+			"old/the-trio",
+			[
+				232,
+				92,
+				228
+			]
+		],
+		[
+			"eletric-cockadoodledoo",
+			"the-trio",
 			[
 				228,
 				85,
@@ -58,20 +58,20 @@
 			]
 		],
 		[
-			"bananacore",
-			"old/cockey",
+			"electric-cockaldoodledoo",
+			"v2/the-squad",
 			[
-				232,
-				92,
-				228
+				228,
+				85,
+				81
 			]
 		]
 	],
 	"weekCharacters": [
-		"dad",
+		"questionmark",
 		"bf",
 		"gf"
 	],
 	"hiddenUntilUnlocked": false,
-	"weekName": "Custom Week"
+	"weekName": "Scrapped Dave and Bambi 3.0 songs"
 }
