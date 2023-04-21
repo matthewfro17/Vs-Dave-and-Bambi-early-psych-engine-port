@@ -14,10 +14,6 @@ import lime.app.Application;
 
 #if desktop
 import Discord.DiscordClient;
-#end
-
-//crash handler stuff
-#if CRASH_HANDLER
 import openfl.events.UncaughtErrorEvent;
 import haxe.CallStack;
 import haxe.io.Path;
